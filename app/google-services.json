@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "39793867491",
+    "firebase_url": "https://crud-consultech-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-consultech",
+    "storage_bucket": "crud-consultech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39793867491:android:ef00f3f9b805be8969a3d6",
+        "android_client_info": {
+          "package_name": "com.example.apk_konsultasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39793867491-47j26v5tnl3dthl4li1arl9gqpu0k0fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQSW1LZtBE7qGDpoZ4n5-vRASN-qQ5EdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39793867491-47j26v5tnl3dthl4li1arl9gqpu0k0fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39793867491:android:ef08e2fa79d5365e69a3d6",
+        "android_client_info": {
+          "package_name": "com.example.apkkonsultasitroublehp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39793867491-47j26v5tnl3dthl4li1arl9gqpu0k0fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQSW1LZtBE7qGDpoZ4n5-vRASN-qQ5EdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39793867491-47j26v5tnl3dthl4li1arl9gqpu0k0fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
